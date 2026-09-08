@@ -1,0 +1,87 @@
+:root {
+  --fcc-blue: #1b1b32;
+  --dark-red: #850000;
+  --dark-blue: #0a0a23;
+  --light-pink: #ffadad;
+  --light-grey: #f5f6f7;
+  --dark-yellow: #feac32;
+  --light-green: #acd157;
+  --light-yellow: #fecc4c;
+}
+
+body {
+  font-size: 18px;
+  color: var(--light-grey);
+  background-color: var(--fcc-blue);
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 680px;
+}
+
+h1,
+.container,
+.output {
+  margin: 20px auto;
+}
+
+label,
+legend {
+  font-weight: bold;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: var(--light-yellow);
+  border: 2px solid var(--dark-yellow);
+}
+
+button,
+input,
+select {
+  min-height: 24px;
+  color: var(--dark-blue);
+}
+
+label,
+input,
+button,
+fieldset,
+select {
+  margin-bottom: 10px;
+}
+
+.output {
+  padding: 10px;
+  text-align: center;
+  border: 2px solid var(--light-grey);
+}
+
+.hide {
+  display: none;
+}
+
+.output span {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.surplus {
+  color: var(--light-pink);
+}
+
+.deficit {
+  color: var(--light-green);
+}
