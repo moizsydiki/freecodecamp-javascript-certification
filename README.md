@@ -1,14 +1,10 @@
 # freeCodeCamp JavaScript Certification
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#freecodecamp-javascript-certification)
-
 This repository contains my solutions, labs, workshops, algorithms, and certification projects completed as part of the **JavaScript** course offered by [freeCodeCamp](https://www.freecodecamp.org/).
 
 The repository covers JavaScript fundamentals through more advanced concepts including functions, arrays, objects, DOM manipulation, asynchronous JavaScript, data structures, algorithms, recursion, dynamic programming, and functional programming.
 
 ## About the Course
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#about-the-course)
 
 The JavaScript curriculum by freeCodeCamp provides hands-on practice with modern JavaScript concepts through interactive lessons, workshops, labs, and certification projects.
 
@@ -41,11 +37,7 @@ Throughout the course, I worked with:
 
 ## Course Labs & Workshops
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#course-labs--workshops)
-
 ### 1. Variables and Strings
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Variables%20and%20Strings)
 
 - [Workshop: Greeting Bot](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Variables%20and%20Strings/GreetingBot.js)
 - [Lab: JavaScript Trivia Bot](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Variables%20and%20Strings/TriviaBot.js)
@@ -57,8 +49,6 @@ Throughout the course, I worked with:
 
 ### 2. Booleans and Numbers
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Booleans%20and%20Numbers)
-
 - [Lab: Debug Type Coercion Errors](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Booleans%20and%20Numbers/DebugTypeCoercionErrors.js)
 - [Lab: Debug Increment and Decrement Operator Errors](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Booleans%20and%20Numbers/IncrementAndDecrement.js)
 - [Workshop: Logic Checker App](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Booleans%20and%20Numbers/LogicCheckerApp.js)
@@ -66,8 +56,6 @@ Throughout the course, I worked with:
 - [Lab: Fortune Teller](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Booleans%20and%20Numbers/FortuneTeller.js)
 
 ### 3. Functions
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Functions)
 
 - [Workshop: Calculator](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Functions/Calculator.js)
 - [Lab: Boolean Check](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Functions/BooleanCheckFn.js)
@@ -81,15 +69,11 @@ Throughout the course, I worked with:
 
 ### 4. Arrays
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Arrays)
-
 - [Workshop: Shopping List](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Arrays/ShoppingList.js)
 - [Lab: Lunch Picker Program](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Arrays/LunchPicker.js)
 - [Lab: Golf Score Translator](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Arrays/GolfScoreTranslator.js)
 
 ### 5. Objects
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Objects)
 
 - [Workshop: Wildlife Tracker](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/WildLifeTracker.js)
 - [Lab: Cargo Manifest Validator](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/CargoManifestValidator.js)
@@ -99,8 +83,6 @@ Throughout the course, I worked with:
 - [Lab: Device Loan Ledger](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/DeviceLoanManager.js)
 
 ### 6. Loops
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Loops)
 
 - [Workshop: Word Counter](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/WordCounter.js)
 - [Workshop: Sentence Analyzer](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/SentenceAnalyzer.js)
@@ -119,8 +101,6 @@ Throughout the course, I worked with:
 - [Lab: Proofreading Tool](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/ProofReadingTool.js)
 
 ### 7. JavaScript Fundamentals Review
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/JavaScript%20Fundamentals%20Review)
 
 - [Lab: Reverse a String](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/JavaScript%20Fundamentals%20Review/StringInverter.js)
 - [Lab: Largest Number Finder](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/JavaScript%20Fundamentals%20Review/LargestNumberFinder.js)
@@ -143,8 +123,6 @@ Throughout the course, I worked with:
 
 ### 8. Higher Order Functions and Callbacks
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Higher%20Order%20Functions%20and%20Callbacks)
-
 - [Workshop: Library Manager](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Higher%20Order%20Functions%20and%20Callbacks/LibraryManager.js)
 - [Lab: Book Organizer](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Higher%20Order%20Functions%20and%20Callbacks/BooksOrganizer.js)
 - [Lab: Sorted Index Finder](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Higher%20Order%20Functions%20and%20Callbacks/SortedIndexFinder.js)
@@ -157,8 +135,6 @@ Throughout the course, I worked with:
 
 ### 9. DOM Manipulation and Events
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/DOM%20Manipulation%20and%20Events)
-
 - [Workshop: Storytelling App](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/DOM%20Manipulation%20and%20Events/Story%20Telling%20App)
 - [Workshop: Emoji Reactor](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/DOM%20Manipulation%20and%20Events/Emoji%20Reactor)
 - [Lab: Favorite Icon Toggler](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/DOM%20Manipulation%20and%20Events/Favorite%20Icon%20Toggler)
@@ -170,21 +146,15 @@ Throughout the course, I worked with:
 
 ### 10. JavaScript Accessibility
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/JavaScript%20Accessibility)
-
 - [Workshop: Planets Tablist](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/JavaScript%20Accessibility/Planets%20Tablist)
 - [Workshop: Note Taking App](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/JavaScript%20Accessibility/Note%20Taking%20App)
 - [Lab: Theme Switcher](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/JavaScript%20Accessibility/Theme%20Switcher)
 
 ### 11. Debugging
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Debugging)
-
 - [Lab: Random Background Color Changer](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Debugging/Random%20BG%20Color%20Changer)
 
 ### 12. Basic Regex
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Basic%20Regex)
 
 - [Workshop: Spam Filter](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Basic%20Regex/Spam%20Filter)
 - [Lab: Palindrome Checker](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Basic%20Regex/Palindrome%20Checker)
@@ -195,39 +165,27 @@ Throughout the course, I worked with:
 
 ### 13. Form Validation
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Form%20Validation)
-
 - [Workshop: Envelope Budget App](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Form%20Validation/Envelope%20Budget%20App)
 - [Lab: Customer Complaint Form](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Form%20Validation/Complaint%20Form)
 
 ### 14. Dates
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Dates)
-
 - [Lab: Date Conversion](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Dates/DateConversionProgram.js)
 
 ### 15. Audio and Video Events
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Audio%20and%20Video%20Events)
 
 - [Workshop: Music Player](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Audio%20and%20Video%20Events/Music%20Player)
 
 ### 16. Map and Sets
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Map%20and%20Sets)
-
 - [Workshop: Plant Nursery Catalog](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Map%20and%20Sets/PlantNurseryCatalog.js)
 
 ### 17. Classes and the `this` Keyword
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Classes)
 
 - [Workshop: Shopping Cart](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Classes/Shopping%20Cart)
 - [Lab: Project Idea Board](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Classes/Project%20Idea%20Board)
 
 ### 18. Recursion
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Recursion)
 
 - [Workshop: Countup](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Recursion/Countup.js)
 - [Lab: Countdown](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Recursion/Countdown.js)
@@ -237,16 +195,12 @@ Throughout the course, I worked with:
 
 ### 19. Data Structures
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Data%20Structures)
-
 - [Workshop: Linked List](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Data%20Structures/LinkedList.js)
 - [Lab: Linked List Operations](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Data%20Structures/LinkedListOperations.js)
 - [Lab: Implement a Stack](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Data%20Structures/Stack.js)
 - [Lab: Implement a Queue](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Data%20Structures/Queue.js)
 
 ### 20. Algorithms
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Algorithms)
 
 - [Workshop: Binary Search](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Algorithms/BinarySearch.js)
 - [Workshop: Merge Sort](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Algorithms/MergeSort.js)
@@ -257,8 +211,6 @@ Throughout the course, I worked with:
 
 ### 21. Graphs and Trees
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Graphs%20and%20Trees)
-
 - [Workshop: Shortest Path Algorithm](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Graphs%20and%20Trees/ShortestPathAlgorithm.js)
 - [Lab: Adjacency List to Matrix Converter](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Graphs%20and%20Trees/AdjacencyListToMatrix.js)
 - [Workshop: Breadth First Search](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Graphs%20and%20Trees/BreadthFirstSearchAlgorithm.js)
@@ -267,14 +219,10 @@ Throughout the course, I worked with:
 
 ### 22. Dynamic Programming
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Dynamic%20Programming)
-
 - [Lab: Nth Fibonacci Number](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Dynamic%20Programming/NthFibonacciCalculator.js)
 - [Lab: Prime Number Sum Calculator](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Dynamic%20Programming/PrimeNumberSumCalculator.js)
 
 ### 23. Functional Programming
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Functional%20Programming)
 
 - [Workshop: Recipe Ingredient Converter](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Functional%20Programming/Ingredient%20Converter)
 - [Lab: Optional Arguments Sum Function](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Functional%20Programming/OptionalArgsSumFn.js)
@@ -282,21 +230,15 @@ Throughout the course, I worked with:
 
 ### 24. Asynchronous JavaScript
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Asynchronous%20JavaScript)
-
 - [Workshop: freeCodeCamp Authors Page](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Asynchronous%20JavaScript/fCC%20Authors%20Page)
 - [Lab: freeCodeCamp Forum Leaderboard](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Asynchronous%20JavaScript/fCC%20Forum%20Leader%20Board)
 
 ### 25. localStorage and CRUD Operations
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/localStorage%20and%20CRUD%20Operations)
-
 - [Workshop: Todo App](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/localStorage%20and%20CRUD%20Operations/Build%20a%20Todo%20App%20using%20LocalStorage)
 - [Lab: Bookmark Manager App](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/localStorage%20and%20CRUD%20Operations/Bookmark%20Manager%20App)
 
 ## Certification Projects
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#certification-projects)
 
 The repository also contains the five certification projects required by the freeCodeCamp JavaScript curriculum.
 
@@ -316,21 +258,15 @@ The course helped me strengthen my understanding of JavaScript through practical
 
 ## Resources
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#resources)
-
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [JavaScript Certification](https://www.freecodecamp.org/learn/javascript-v9/)
 - [freeCodeCamp GitHub Repository](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## Acknowledgments
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#acknowledgments)
-
 A special thanks to [freeCodeCamp](https://www.freecodecamp.org/) for providing a free, structured, and practical curriculum for learning JavaScript.
 
 ## Contact
-
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#contact)
 
 **GitHub:** [@moizsydiki](https://github.com/moizsydiki)
 
