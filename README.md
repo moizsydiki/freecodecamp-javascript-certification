@@ -81,6 +81,7 @@ Throughout the course, I worked with:
 - [Lab: Quiz Game](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/QuizGame.js)
 - [Lab: Record Collection](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/RecordCollection.js)
 - [Lab: Device Loan Ledger](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/DeviceLoanManager.js)
+- [Workshop: Artifact Provenance Auditor](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Objects/ArtifactProvenanceAuditor.JS)
 
 ### 6. Loops
 
