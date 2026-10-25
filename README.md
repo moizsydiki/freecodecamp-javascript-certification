@@ -100,6 +100,7 @@ Throughout the course, I worked with:
 - [Lab: Missing Letter Detector](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/MissingLetterDetector.js)
 - [Lab: Smart Pantry Restocker](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/SmartPantryRestocker.js)
 - [Lab: Proofreading Tool](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/ProofReadingTool.js)
+- [Workshop: Campus Directory Normalizer](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Loops/CampusDirectoryNormalizer.js)
 
 ### 7. JavaScript Fundamentals Review
 
@@ -154,6 +155,7 @@ Throughout the course, I worked with:
 ### 11. Debugging
 
 - [Lab: Random Background Color Changer](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Debugging/Random%20BG%20Color%20Changer)
+- [Workshop: Library Book Search](https://github.com/moizsydiki/freecodecamp-javascript-certification/tree/main/Debugging/Library%20Book%20Search)
 
 ### 12. Basic Regex
 
