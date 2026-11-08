@@ -253,7 +253,7 @@ The repository also contains the five certification projects required by the fre
 
 ## Certification
 
-[svg](https://github.com/moizsydiki/freecodecamp-javascript-certification#certification)
+[png](https://github.com/moizsydiki/freecodecamp-javascript-certification/blob/main/Certificate.png)
 
 I completed the **JavaScript Certification** curriculum provided by freeCodeCamp.
 
